@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xsi:schemaLocation="http://maven.apache.org/METADATA/1.0.0 http://maven.apache.org/xsd/metadata-1.0.0.xsd" xmlns="http://maven.apache.org/METADATA/1.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata modelVersion="1.1.0">
   <groupId>net.dahanne.gallery3</groupId>
   <artifactId>g3-java-client</artifactId>
   <version>0.3.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20101003.003729</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20101122.061532</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
-    <lastUpdated>20101003003729</lastUpdated>
+    <lastUpdated>20101122061532</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.3.0-20101122.061532-3</value>
+        <updated>20101122061532</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3.0-20101122.061532-3</value>
+        <updated>20101122061532</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.3.0-20101122.061532-3</value>
+        <updated>20101122061532</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>

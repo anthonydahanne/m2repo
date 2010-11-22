@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.dahanne.gallery2</groupId>
+  <artifactId>g2-java-client</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20101122061434</lastUpdated>
+  </versioning>
+</metadata>
